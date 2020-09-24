@@ -1,2 +1,5 @@
-#Project Euler
-Problems solved from: https://projecteuler.net/archives
+# Project Euler
+
+https://projecteuler.net/archives
+
+Programs solved in C++ and Python
